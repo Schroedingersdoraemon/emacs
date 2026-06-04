@@ -1,0 +1,10 @@
+/elpa/
+/auto-save-list/
+/eln-cache/
+/.cache/
+/projects
+.session
+.uptimes.el
+custom.el
+/eshell/
+tramp
